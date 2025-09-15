@@ -17,7 +17,7 @@ const Dashboard = ({
   return (
     <div className="space-y-8">
       {/* Welcome Section */}
-      <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl p-8 text-white">
+      <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl p-8 text-white bg-blue-600">
         <h2 className="text-3xl font-bold mb-2">Welcome back!</h2>
         <p className="text-blue-100 text-lg">
           Here's your loan portfolio overview
